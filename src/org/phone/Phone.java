@@ -8,7 +8,6 @@ public class Phone {
 		System.out.println("Phone name "+name);
 		System.out.println("Phone camera "+camera);
 		System.out.println("hello");
-		
 	}
 	public void phoneInfo(int camera, String name) {
 		System.out.println("Phone camera "+camera);
