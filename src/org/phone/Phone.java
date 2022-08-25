@@ -7,6 +7,7 @@ public class Phone {
 	public void phoneInfo(String name,int camera) {
 		System.out.println("Phone name "+name);
 		System.out.println("Phone camera "+camera);
+		System.out.println("Hii");
 	}
 	public void phoneInfo(int camera, String name) {
 		System.out.println("Phone camera "+camera);
